@@ -1,4 +1,5 @@
 {
+  //show dependecies
   "name": "reddit-nodejs-api",
   "version": "1.0.0",
   "description": "DecodeMTL workshop to build a Reddit API with MySQL",
